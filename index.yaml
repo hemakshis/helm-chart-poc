@@ -3,12 +3,12 @@ entries:
   new-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-15T16:42:06.151931+05:30"
+    created: "2022-12-15T16:52:03.15812+05:30"
     description: A Helm chart for Kubernetes
     digest: 263f36773a723f6894b8e5459f51543f22df73bf4adf85c4e77630d79db63e84
     name: new-chart
     type: application
     urls:
-    - https://hemakshis.github.io/new_chart/new-chart-0.1.0.tgz
+    - https://hemakshis.github.io/helm-chart-poc/new-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-12-15T16:42:06.146076+05:30"
+generated: "2022-12-15T16:52:03.156643+05:30"
