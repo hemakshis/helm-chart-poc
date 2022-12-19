@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   new-chart:
   - apiVersion: v2
+    appVersion: 1.16.1
+    created: "2022-12-19T17:11:23.766449+05:30"
+    description: A Helm chart for Kubernetes
+    digest: dcb9df893ba253295767e9f5b4957c46b1278bb8fe3b752f699d38a13cbe118d
+    name: new-chart
+    type: application
+    urls:
+    - https://hemakshis.github.io/helm-chart-poc/new-chart-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-19T15:42:03.956026+05:30"
+    created: "2022-12-19T17:11:23.765789+05:30"
     description: A Helm chart for Kubernetes
     digest: 09abed68f42a90f438d2e6c6381992f67a06179df9d5b5784d359e6d66e81758
     name: new-chart
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-12-19T15:42:03.955364+05:30"
+    created: "2022-12-19T17:11:23.764366+05:30"
     description: A Helm chart for Kubernetes
     digest: 263f36773a723f6894b8e5459f51543f22df73bf4adf85c4e77630d79db63e84
     name: new-chart
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://hemakshis.github.io/helm-chart-poc/new-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2022-12-19T15:42:03.954275+05:30"
+generated: "2022-12-19T17:11:23.763178+05:30"
