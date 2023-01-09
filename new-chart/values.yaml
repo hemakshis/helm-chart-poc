@@ -5,8 +5,8 @@
 replicaCount: 1
 
 image:
-  repository: projects.registry.vmware.com/tmc/build-integrations/private-helm-poc
-  pullPolicy: IfNotPresent
+  repository: harbor-repo.vmware.com/tmcbuildintegrations/private-helm-poc
+  pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "0.1.0"
 
